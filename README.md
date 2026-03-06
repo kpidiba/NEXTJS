@@ -342,6 +342,8 @@ async function getData() {
 
 - **[shadcn toolkit](https://shadcnuikit.com/)** : TOOLKIT TO DEVELOP INTERFACES WITH SHADCN
 
+- **[SHADCN STORE CHEATSEET](https://shadcnstore.com/cheatsheet/)** : SHADCN STORE CHEATSEET 
+
 ---
 
 ## ✅ Ma Checklist de Compétences Next.js 2026
