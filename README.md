@@ -342,7 +342,11 @@ async function getData() {
 
 - **[shadcn toolkit](https://shadcnuikit.com/)** : TOOLKIT TO DEVELOP INTERFACES WITH SHADCN
 
-- **[SHADCN STORE CHEATSEET](https://shadcnstore.com/cheatsheet/)** : SHADCN STORE CHEATSEET 
+### TEMPLATES
+
+- **[SHADCN STORE CHEATSEET](https://shadcnstore.com/cheatsheet/)** : SHADCN STORE CHEATSEET
+
+- [http://getnextjstemplates.com/](http://getnextjstemplates.com/)
 
 ---
 
